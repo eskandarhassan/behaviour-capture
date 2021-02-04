@@ -1,0 +1,26 @@
+:root {
+  --white: #fff;
+  --black: #000;
+  --gray: #ccc;
+  --olive: #172601;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  border: none;
+  outline: none;
+}
+
+body {
+  font-size: 15px;
+  color: #555555;
+  line-height: 28px;
+  font-weight: 400;
+  background: #ffffff;
+  font-family: "Open Sans", sans-serif;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center top;
+  -webkit-font-smoothing: antialiased;
+}

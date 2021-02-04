@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="container">
+  <div class="top-level-message">
+    <h3>You have been active on this page for</h3>
+  </div>
+  <div class="time-message">
+    <h1><span id="timeInSeconds">0</span> <span>seconds</span></h1>
+    <h4 id="activityStatus">You are actively using this page.</h4>
+  </div>
+  
+  <div>
+    <button class="btn btn-primary" id="area-of-interest-1" title="title">
+      Interaction: <span id="area-of-interest-time-1" ></span> seconds.
+    </button>
+  </div>
+</div>
+{% endblock content %}
