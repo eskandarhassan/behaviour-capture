@@ -4,7 +4,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Requirements
 
-### create a virtual environment and and install requirements
+### create a virtual environment for example Anaconda find link below:
+
+https://medium.com/@GalarnykMichael/install-python-anaconda-on-windows-2020-f8e188f9a63d
+
+### Once your virtual environment is set: proceed now to install requirements
 
 ```
 pip install -r requirements.txt
