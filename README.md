@@ -21,8 +21,8 @@ pip install -r requirements.txt
 ```
 python manage.py runserver
 ```
-Then go to: 
+Then go to in your browser: 
 ```
-http://127.0.0.1:8000/admin/app/behaviour in your browser
+http://127.0.0.1:8000/admin/app/behaviour 
 ```
 And view the site in another tab (see demo attached and sent to you via email)
