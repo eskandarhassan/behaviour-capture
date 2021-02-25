@@ -16,13 +16,13 @@ https://medium.com/@GalarnykMichael/install-python-anaconda-on-windows-2020-f8e1
 pip install -r requirements.txt
 ```
 
-## To run the program in local server use the following command:
+### To run the program in local server use the following command:
 
 ```
 python manage.py runserver
 ```
-Then go to in your browser: 
+### Then go to in your browser: 
 ```
 http://127.0.0.1:8000/admin/app/behaviour 
 ```
-And view the site in another tab (see demo attached and sent to you via email)
+### And view the site in another tab (see demo attached and sent to you via email)
